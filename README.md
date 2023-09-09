@@ -1,5 +1,5 @@
 # dotfiles
-OS: Void Linux
-Terminal: Kitty
-WM: Dwm
-Editor: Neovim
+OS: Void Linux <br/>
+Terminal: Kitty <br/>
+WM: Dwm <br/>
+Editor: Neovim <br/>
